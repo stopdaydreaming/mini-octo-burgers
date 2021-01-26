@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/stopdaydreaming/mini-octo-burgers/issues"
   },
-  "homepage": "https://github.com/stopdaydreaming/mini-octo-burgers#readme"
+  "homepage": "https://github.com/stopdaydreaming/mini-octo-burgers#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "handlebars": "^4.7.6",
+    "mysql": "^2.18.1"
+  }
 }
