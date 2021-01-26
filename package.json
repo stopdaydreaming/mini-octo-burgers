@@ -1,0 +1,22 @@
+{
+  "name": "mini-octo-burgers",
+  "version": "1.0.0",
+  "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stopdaydreaming/mini-octo-burgers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stopdaydreaming/mini-octo-burgers/issues"
+  },
+  "homepage": "https://github.com/stopdaydreaming/mini-octo-burgers#readme"
+}
