@@ -1,7 +1,13 @@
+body {
+  background: #FBE3BD;
+}
+
 li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  list-style-type: none;
+  font-size: 1.5rem;
 }
 
 .label {
@@ -11,9 +17,31 @@ li {
 .create-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background: #faebd7;
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+
+.burger-img {
+  width: 35%;
+  border-radius: 50%;
+}
+
+.burger-form {
+  padding: 1em;
+  background: #faebd7;
+  font-size: 1.25rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+button.delete-burger.btn.btn-danger.float-end {
+  margin-right: 20px;
 }
