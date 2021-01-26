@@ -1,4 +1,4 @@
-# Eat-Da-Burger 🍔 Picker
+# Eat-Da-Burger! 🍔 Restaurant App
 
 ## Description
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
@@ -22,15 +22,15 @@ Click this link to [VIEW APP](https://mini-octo-burgers.herokuapp.com/ )
 
 
 ## Usage 
-This code should be used for the purpose of creating/editing code for a Eat-Da-Burger Picker. 
-![Eat-Da-Burger](./public/assets/img/screenshot.png)
+This code should be used for the purpose of creating/editing code for a Eat-Da-Burger! app. 
+![Eat-Da-Burger!](./public/assets/img/screenshot.png)
 
 ## Credits
 1 contributor: @stopdaydreaming  
 Special thanks to my amazing tutor!
 
 ## License
-Copyright (c) Eat-Da-Burger. All rights reserved.
+Copyright (c) Eat-Da-Burger!. All rights reserved.
 Licensed under the [MIT](LICENSE) license.
 
 ## Features
