@@ -18,7 +18,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 2. Navigate to the location of the code downloaded
 3. Double-click on the html file provided in the downloaded code to preview 
 ### Steps required to online
-Click this link to [VIEW APP](./)
+Click this link to [VIEW APP](https://mini-octo-burgers.herokuapp.com/ )
 
 
 ## Usage 
