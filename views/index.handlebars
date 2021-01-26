@@ -16,7 +16,7 @@
 
       <h2>Burgers that are devoured!</h2>
 
-      <ul>
+      <ul class="text-muted sold-out">
         {{#each burger}}
         {{#if devoured}}
         {{> burger/burger-block devoured=false}}
@@ -29,9 +29,9 @@
         <h2>Add a Burger</h2>
         <form class="create-form">
 
-          <div class="form-group">
+          <div class="form-group add-burger-form">
             <label for="add-burger">Burgers Name:</label>
-            <input type="text" id="add-burger" name="name">
+            <textarea type="text" id="add-burger" name="add-burger"></textarea>
           </div>
 
           <div class="form-group">
@@ -40,7 +40,7 @@
             <input type="radio" name="devoured" value="0"> Not Devoured
           </div>
 
-          <button class="btn btn-success" type="submit">Add Burger</button>
+          <button class="btn btn-success all-caps" type="submit">Add Burger</button>
         </form>
       </section>
     </div>

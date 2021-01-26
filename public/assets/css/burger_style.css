@@ -42,6 +42,18 @@ li {
   width: 50%;
 }
 
+.all-caps {
+  text-transform: uppercase;
+}
+
+.add-burger-form * {
+  vertical-align: middle;
+}
+
 button.delete-burger.btn.btn-danger.float-end {
   margin-right: 20px;
+}
+
+.sold-out {
+  text-decoration: line-through;
 }

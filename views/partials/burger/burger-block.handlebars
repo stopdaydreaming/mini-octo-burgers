@@ -1,9 +1,7 @@
-<li class="">
+<li>
 	{{name}}
 
-	<button class="change-devoured btn btn-secondary float-end" data-id="{{id}}" data-newdevoured="{{devoured}}">
-		{{#if devoured}}DEVOURED!{{else}}WAITING...{{/if}}
+	<button class="change-devoured btn btn-dark float-end" data-id="{{id}}" data-newdevoured="{{devoured}}">
+		{{#if devoured}}DEVOUR IT!{{else}}TRY AGAIN!{{/if}}
 	</button>
-
-	<button class="delete-burger btn btn-danger float-end" data-id="{{this.id}}">DELETE!</button>
 </li>
